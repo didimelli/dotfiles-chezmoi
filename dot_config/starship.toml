@@ -1,0 +1,16 @@
+[gcloud]
+disabled=true
+
+[python]
+# pyenv_version_name=true
+# pyenv_prefix='python'
+# disabled=true
+format='via 🐍 ${version} '
+python_binary=["./.venv/bin/python"]
+
+[aws]
+disabled=true
+
+# to avoid having systemd printed out before prompt
+[container]
+disabled=true

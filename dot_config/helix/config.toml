@@ -1,0 +1,19 @@
+theme = "catppuccin"
+
+[editor]
+line-number = "relative"
+true-color = true
+cursorline = true
+
+[editor.cursor-shape]
+insert = "block"
+normal = "block"
+select = "block"
+
+[editor.file-picker]
+hidden = false
+
+[editor.whitespace.render]
+space = "all"
+tab = "all"
+newline = "none"

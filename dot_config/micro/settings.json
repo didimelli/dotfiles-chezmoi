@@ -1,0 +1,21 @@
+{
+    "autosu": true,
+    "colorscheme": "catppuccin-mocha",
+    "diffgutter": true,
+    "eofnewline": false,
+    "fastdirty": true,
+    "ignorecase": false,
+    "keepautoindent": true,
+    "lsp.autocompleteDetails": false,
+    "lsp.formatOnSave": true,
+    "lsp.ignoreMessages": "LS message1 to ignore|LS message 2 to ignore|...",
+    "lsp.ignoreTriggerCharacters": "completion,signature",
+    "lsp.server": "python=pylsp,json=node",
+    "lsp.tabcompletion": true,
+    "paste": true,
+    "pluginchannels": [
+        "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
+    ],
+    "pluginrepos": [],
+    "tabstospaces": true
+}
